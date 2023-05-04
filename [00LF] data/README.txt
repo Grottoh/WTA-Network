@@ -1,0 +1,1 @@
+Data corresponding to the paper "Bayesian Integration of Information Using Top-Down Modulated WTA Networks" can be found on <TBD>.
